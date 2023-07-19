@@ -1,5 +1,5 @@
 blacklist = {
-"steam:110000112b7292a",
+"steam:(HEX)",
 
 }
 
